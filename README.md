@@ -1,9 +1,6 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Val%20Levy&fontSize=44&fontAlignY=35"/>
-</p>
-
-<h1 align="center">Hi, I'm Val Levy</h1>
-<h3 align="center">Director of Engineering at Oregon Blockchain & 3rd Year Computer Science student at UOregon</h3>
+</p>](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Val%20Levy&reversal=false&fontColor=1177aa&desc=Computer%20Science%20@%20Uoregon%20&descAlignY=63&textBg=false)
 
 - 🔭 I’m currently working on [Redstone](https://github.com/val-levy/redstone)
 
