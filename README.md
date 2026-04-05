@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Val%20Levy&fontSize=44&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi, I'm Val Levy</h1>
 <h3 align="center">Director of Engineering at Oregon Blockchain & 3rd Year Computer Science student at UOregon</h3>
 
