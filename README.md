@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Val%20Levy&fontSize=44&fontAlignY=35](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Val%20Levy&reversal=false&fontColor=1177aa&desc=Computer%20Science%20@%20Uoregon%20&descAlignY=63&textBg=false)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Val%20Levy&fontSize=44&fontAlignY=35"/>
 </p>
 
 - 🔭 I’m currently working on [Redstone](https://github.com/val-levy/redstone)
