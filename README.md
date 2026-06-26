@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **valentinlevya@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/val-levy/resume-val-levy/blob/main/Valentin_Levy_Resume.pdf](https://github.com/val-levy/resume-val-levy/blob/main/Valentin_Levy_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 
   <table>
