@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Val%20Levy&reversal=false&fontColor=000000&desc=Computer%20Science%20@%20Uoregon%20&descAlignY=63&textBg=false"/>
 </p>
 
-- 🔭 I’m currently working on [Trail-Weave for Lokahi Therapeutics](https://github.com/Oregon-Blockchain-Group/trial-weave)
-
 - 🌱 I’m currently learning **AI/ML Development, Operating Systems, Distributed Systems**
 
 - 📫 How to reach me **valentinlevya@gmail.com**
